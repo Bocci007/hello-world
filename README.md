@@ -1,4 +1,5 @@
 # hello-world
-the start of github
-hello github!
-welcome to the world of codes!
+the start of github.\n
+hello github!\n
+welcome to the world of codes!\n
+see you!
